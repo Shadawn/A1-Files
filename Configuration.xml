@@ -28,7 +28,7 @@
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>a70da025-d4fd-4356-9347-9f88416496cf</xr:ObjectId>
+				<xr:ObjectId>45f88b70-70ef-42ff-89bf-34363a3a478f</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>0.1.0</Version>
+			<Version>0.2.0 - 2020-11-06</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -73,8 +73,10 @@
 			<CommonTemplate>А1Файлы_А1Зависимости</CommonTemplate>
 			<CommonModule>А1Файлы</CommonModule>
 			<CommonModule>А1Файлы_А1СписокМеханизмов</CommonModule>
-			<CommonModule>А1Файлы_Тома</CommonModule>
 			<CommonModule>А1Файлы_КомпонентТаблицаПрисоединенных</CommonModule>
+			<CommonModule>А1Файлы_Тома</CommonModule>
+			<CommonModule>А1Файлы_Форма</CommonModule>
+			<CommonForm>А1Файлы</CommonForm>
 			<Catalog>А1Файлы</Catalog>
 			<Catalog>А1Файлы_НастройкиСистемы</Catalog>
 			<Catalog>А1Файлы_Тома</Catalog>
