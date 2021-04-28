@@ -137,6 +137,13 @@
 		</right>
 	</object>
 	<object>
+		<name>CommonForm.А1Файлы</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.А1Файлы_НастройкиСистемы.StandardAttribute.PredefinedDataName</name>
 		<right>
 			<name>View</name>
